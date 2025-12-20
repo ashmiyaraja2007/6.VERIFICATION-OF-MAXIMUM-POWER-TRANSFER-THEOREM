@@ -1,4 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
+**ASHMIYA.R**
+**25001337**
 
 **AIM:**
 
@@ -29,7 +31,8 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 
 
-**MODEL GRAPH:**
+**MODEL GRAPH:**<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f3defa7c-2d7e-4e4e-ac29-74b0a8e967ea" />
+
 
 
 Resistance (RL) in ohm
@@ -39,6 +42,9 @@ Resistance (RL) in ohm
 
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
+<img width="926" height="1280" alt="image" src="https://github.com/user-attachments/assets/7a9bc148-984c-460a-b102-83aa3a4c02ba" />
+
+
 
 S.No	Load
 Resistance(RL) in ohm	Load
@@ -52,6 +58,8 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 
 **TABLE (2): FOR PRACTICAL CALCULATION**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3df204ad-3193-4d17-839d-a854a227a1ca" />
+
 
 S.No	Load
 Resistance(RL) in ohm	Load
@@ -66,6 +74,8 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 **MODEL CALCULATION:**
 <img width="1599" height="1566" alt="image" src="https://github.com/user-attachments/assets/bbf158f9-4bd7-4e06-a62e-e7fac40de9d9" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f031cc13-376c-4116-a6c5-b5986f372977" />
+
 
 
 **PROCEDURE:**
@@ -78,6 +88,8 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 **MARKS SPLIT UP:**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2cdea5e9-3032-4181-a954-33b0769672a8" />
+
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/4a1b350f-28cd-4087-a9fa-509b3c78b393" />
 
 **RESULT:**
