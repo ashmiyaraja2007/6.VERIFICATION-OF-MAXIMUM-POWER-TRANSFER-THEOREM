@@ -27,8 +27,7 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
-<img width="1599" height="1597" alt="image" src="https://github.com/user-attachments/assets/e930ee91-8144-47e3-9dcd-fc974c4dc3c1" />
-
+<img width="617" height="342" alt="image" src="https://github.com/user-attachments/assets/a2a2f69d-f6e0-43a5-9840-d1e48beb193f" />
 
 
 **MODEL GRAPH:**<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f3defa7c-2d7e-4e4e-ac29-74b0a8e967ea" />
@@ -38,12 +37,10 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 Resistance (RL) in ohm
 
 **TABULATION:**
-<img width="655" height="1291" alt="image" src="https://github.com/user-attachments/assets/200bd434-d3d5-473a-9eeb-ac39ef474575" />
+<img width="1195" height="299" alt="image" src="https://github.com/user-attachments/assets/9ea121cb-1337-4160-815d-911d25a819e1" />
 
- 
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
-<img width="926" height="1280" alt="image" src="https://github.com/user-attachments/assets/7a9bc148-984c-460a-b102-83aa3a4c02ba" />
-
+<img width="866" height="624" alt="image" src="https://github.com/user-attachments/assets/7dab5d62-80bd-432d-b7be-aa8eb958863a" />
 
 
 S.No	Load
@@ -58,8 +55,7 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 
 **TABLE (2): FOR PRACTICAL CALCULATION**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3df204ad-3193-4d17-839d-a854a227a1ca" />
-
+<img width="866" height="624" alt="image" src="https://github.com/user-attachments/assets/53d86d53-dad5-4606-9a2c-42c96c8c457f" />
 
 S.No	Load
 Resistance(RL) in ohm	Load
@@ -73,8 +69,7 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 
 **MODEL CALCULATION:**
-<img width="1599" height="1566" alt="image" src="https://github.com/user-attachments/assets/bbf158f9-4bd7-4e06-a62e-e7fac40de9d9" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f031cc13-376c-4116-a6c5-b5986f372977" />
+<img width="591" height="595" alt="image" src="https://github.com/user-attachments/assets/2b22f183-4cdb-490d-8c4b-30d865888b75" />
 
 
 
@@ -88,9 +83,7 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 **MARKS SPLIT UP:**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2cdea5e9-3032-4181-a954-33b0769672a8" />
-
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/4a1b350f-28cd-4087-a9fa-509b3c78b393" />
+<img width="636" height="499" alt="image" src="https://github.com/user-attachments/assets/1d0993ae-efee-45ba-9483-cb6c63de3ee3" />
 
 **RESULT:**
 
